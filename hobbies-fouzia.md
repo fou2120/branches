@@ -6,5 +6,5 @@ thai boksning
 svømning 
 
 også en masse hyggelige hobbier: 
-hækle og keramik 
+hækle og keramik
 
