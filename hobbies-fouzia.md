@@ -1,4 +1,4 @@
-- [Fouzia](Hobbies-fouzia.md)
+- [Fouzia](hobbies-fouzia.md)
 
 jeg har en masse hobbier indenfor sport: 
 styrketræning 

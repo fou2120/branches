@@ -1,4 +1,4 @@
 - [Sebastian](Sebastian-hobbies.md)
 - [Ahmed](Ahmed.hobbies.md)
 - [Dilara](Dilara.hobbies.md)
-- [Fouzia](Hobbies-fouzia.md)
+- [Fouzia](hobbies-fouzia.md)
